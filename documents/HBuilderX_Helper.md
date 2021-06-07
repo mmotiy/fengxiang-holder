@@ -10,7 +10,7 @@
 - `Ctrl+s` 保存
 - `Ctrl+enter` 在当前光标的位置的下方新增一行，并将光标的位置移动到新增行的航头位置。
 - `Ctrl+shift+enter` 在当前光标的位置的下方新增一行。
-- `Ctrl+return` 在当前光标的位置的上方新增一行，并将光标的位置移动到新增行的航头位置。`return` 案件为 `backspace`按键
+- `Ctrl+return` 在当前光标的位置的上方新增一行，并将光标的位置移动到新增行的航头位置。
 - `Ctrl+shift+return` 在当前光标的位置的上方新增一行。
 - `shift+backspace` 从光标位置删到行首
 - `shift+delete` 从光标位置删除到行尾
