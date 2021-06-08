@@ -1,14 +1,14 @@
 ## 更多推荐组件
-###源码目录
+### 源码目录
 >d-name/components/dio-bannerbox/dio-bannerbox.vue<br>
 >旧版本：~~d-name/components/bannerbox/Bannerbox.vue~~ 不再使用
 
-###使用场景
+### 使用场景
 1.用户测试完成，在结果页面下方，展示更多更多产品给用户<br>
 2.产品首页除一屏以外的内容展示更多产品给用户
 
 >tip:提高转化率，缩短用户测试其余产品的路劲
-###使用方式
+### 使用方式
 凡是dio开头的组件，使用时不需要再`script`中再次引入。可以直接在`template`中使用。
 ```html
 ...
