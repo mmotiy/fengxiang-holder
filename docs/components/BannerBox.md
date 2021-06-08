@@ -15,21 +15,26 @@
     <dio-bannerbox dictKey="TESTT_HOME_LIST1" ref="banner" @change="unBack()"></dio-bannerbox>
 ...
 ```
-####属性说明
+#### 属性说明
+
 |属性名|类型|必填|说明|
 |----|----|----|---|
-|dictKey|字符串|是|字典中保存该产品推荐列表的字典key值|[^1]
-####事件说明
+|dictKey|字符串|是|字典中保存该产品推荐列表的字典key值|
+
+#### 事件说明
+
 |属性名|类型|必填|说明|
 |----|----|----|---|
 |change|回调|否|当用户点击推荐列表中的任何一款产品时，会触发该事件|
+
 ####方法说明
+
 |方法名|说明|
 |----|---|
 |loadMoreTest|异步加载更多，如果该组件在加载中，则调用该方法不会再次触发加载|
 |jumpMini|根据item的配置信息进行跳转|
 
-###源码解析
+### 源码解析
 `TESTT_HOME_LIST1`对应的部分数据格式
 ```json
 [{"name":"你和哪个明星同一天生日？","desc":"你和哪个明星同一天生日？","type":"reLaunch","icon":"http://create.adota.cn/quwan/26/iconn.png","path":"/pages/birthdayWithStar/test?dictKey=QUWAN_NHNGMXTYTSR","num":776879,"label":["明星"],"dictKey":"QUWAN_NHNGMXTYTSR_MODE","anotherName":"你和哪个明星同一天生日？","anotherDesc":""}]
