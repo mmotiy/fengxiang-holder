@@ -1,5 +1,5 @@
 ## CSS动画基础知识测验
-1.解释 `animation`子属性的含有<br>
+1.解释 `animation`子属性的含义<br>
 * animation-delay 
 * animation-direction
 * animation-duration
