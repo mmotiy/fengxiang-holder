@@ -16,3 +16,6 @@
 1.  [Windows powershell 压缩脚本](others/windowszip.md)
 2.  [快手账号信息](others/Kuaishou_mp.md)
 3.  [快速全文查找文本](others/findSpecialText.md)
+
+## 测验
+1.  [CSS动画基础](examination/CSSAnimationExam.md)
