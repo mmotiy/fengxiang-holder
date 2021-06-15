@@ -10,3 +10,4 @@
 
 ## 其他
 1.  [Windows powershell 压缩脚本](others/windowszip.md)
+2.  [快手账号信息](others/Kuaishou_mp.md)
