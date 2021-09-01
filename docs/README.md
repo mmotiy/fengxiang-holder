@@ -22,5 +22,6 @@
 2.  [快手账号信息](others/Kuaishou_mp.md)
 3.  [快速全文查找文本](others/findSpecialText.md)
 4.  [JAVA系Go初学笔记](others/JavaToGo.md)
+5.  [Linux Redis编译安装](https://shawn-shi.medium.com/how-to-install-redis-on-ec2-server-for-fast-in-memory-database-f30c3ef8c35e)
 ## 测验
 1.  [CSS动画基础](examination/CSSAnimationExam.md)

@@ -35,7 +35,7 @@ func main() {
 1.  bool 
 2.  number
 3.  string
-4.  pointer array struct channel function interface map 切片(?)
+4.  pointer array struct channel function interface map slice切片(?)
 
 ### 变量声明
 ```golang
