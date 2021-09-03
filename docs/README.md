@@ -24,5 +24,10 @@
 4.  [JAVA系Go初学笔记](others/JavaToGo.md)
 5.  [Linux Redis编译安装](https://shawn-shi.medium.com/how-to-install-redis-on-ec2-server-for-fast-in-memory-database-f30c3ef8c35e)
 6.  [Go的一些事儿](others/GoLangSomehting.md)
+7.  [免费的SSL 证书](https://manage.sslforfree.com/)
 ## 测验
 1.  [CSS动画基础](examination/CSSAnimationExam.md)
+
+
+## 工具
+1.  [redis-insight](https://redis.com/redis-enterprise/redis-insight/) [linux download](https://d3fyopse48vfpi.cloudfront.net/latest/redisinsight-linux64)
