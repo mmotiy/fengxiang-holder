@@ -31,3 +31,6 @@
 
 ## 工具
 1.  [redis-insight](https://redis.com/redis-enterprise/redis-insight/) [linux download](https://d3fyopse48vfpi.cloudfront.net/latest/redisinsight-linux64)
+
+## 以太坊
+1. [debug_transaction](eth/debug_traceTransaction.md)
