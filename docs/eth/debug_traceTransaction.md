@@ -15,7 +15,7 @@ traceTransaction 调试方法将尝试以与在网络上执行的完全相同的
 
 #### 客户端方法调用
 
-|版本| 方式|
+|版本| |
 |---|---|
 |Go|`debug.TraceTransaction(txHash common.Hash, logger *vm.LogConfig) (*ExecutionResurt, error)`|
 |Console|`debug.traceTransaction(txHash, [options])`|
