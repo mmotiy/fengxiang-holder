@@ -34,3 +34,6 @@
 
 ## 以太坊
 1. [debug_transaction](eth/debug_traceTransaction.md)
+
+## JAVA系列
+1. [Java框架的基准测试](https://www.loggly.com/blog/benchmarking-java-logging-frameworks/)
