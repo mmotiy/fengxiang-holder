@@ -37,3 +37,4 @@
 
 ## JAVA系列
 1. [Java框架的基准测试](https://www.loggly.com/blog/benchmarking-java-logging-frameworks/)
+2. [Swagger实用工具，生成REST-Client](spring-boot-rest-client-swagger-codegen)
