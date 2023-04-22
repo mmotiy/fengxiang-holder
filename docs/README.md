@@ -40,5 +40,6 @@
 2. [Swagger实用工具，生成REST-Client](spring-boot-rest-client-swagger-codegen)
 
 ## CoCos Creator 篇
-
-1.	[抖音小玩法sdk接入](cocos_proj/douyin_sdk_inject.md)
+1. [抖音小玩法数据格式（对接SDK参考项目：噩梦之夜)](CocosCreator/抖音小玩法SDK接入.md)
+2. [抖音小玩法测试流程](CocosCreator/抖音小玩法测试流程.md)
+3. [抖音小玩法上传审核流程](CocosCreator/抖音小玩法上传审核流程.md)
