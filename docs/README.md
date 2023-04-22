@@ -41,4 +41,4 @@
 
 ## CoCos Creator 篇
 
-1.	[抖音小玩法sdk接入](ccos_proj/douyin_sdk_inject.md)
+1.	[抖音小玩法sdk接入](cocos_proj/douyin_sdk_inject.md)
